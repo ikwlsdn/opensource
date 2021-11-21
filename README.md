@@ -1,6 +1,6 @@
 ## opensource
 opensource report
 
--  _getopt 및 getopts 명령어_
+-  **getopt 및 getopts 명령어**
 
--  _sed 및 awk 명령어_
+-  **sed 및 awk 명령어**
