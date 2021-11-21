@@ -6,6 +6,9 @@
     - shell script에서 명령어를 사용할 때 옵션을 파싱하고 옵션 지정을 할 수 있게 해주는 명령어
 
     - 차이점 : 옵션에는 '-'를 한개 붙히는 short옵션 두개 붙히는 long옵션이 있는데 getopts는 short옵션을 처리, getopt는 short, long옵션 모두 지원
+    
+
+    
 ****
 -  **sed 및 awk 명령어**
 
